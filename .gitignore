@@ -1,0 +1,11 @@
+node_modules/
+test-results/
+playwright-report/
+allure-results/
+allure-report/
+.env
+.DS_Store
+dist/
+*.log
+test-data/files/
+playwright/.auth/

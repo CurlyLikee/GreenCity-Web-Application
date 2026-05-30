@@ -1,0 +1,298 @@
+[
+  {
+    "tag": "BUTTON",
+    "type": "submit",
+    "text": "user.warning.button",
+    "formcontrolname": null,
+    "className": "warning_button_comment",
+    "disabled": false
+  },
+  {
+    "tag": "TEXTAREA",
+    "type": "textarea",
+    "text": "",
+    "placeholder": "напр. Кава з собою зі знижкою 20%",
+    "formcontrolname": "title",
+    "className": "ng-untouched ng-pristine ng-invalid",
+    "disabled": false,
+    "readOnly": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Новини",
+    "formcontrolname": null,
+    "className": "tag-button ng-star-inserted",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Події",
+    "formcontrolname": null,
+    "className": "tag-button ng-star-inserted",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Освіта",
+    "formcontrolname": null,
+    "className": "tag-button ng-star-inserted",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Ініціативи",
+    "formcontrolname": null,
+    "className": "tag-button ng-star-inserted",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Реклама",
+    "formcontrolname": null,
+    "className": "tag-button ng-star-inserted",
+    "disabled": false
+  },
+  {
+    "tag": "INPUT",
+    "type": "text",
+    "text": "",
+    "placeholder": "Посилання на зовнішнє джерело",
+    "formcontrolname": "source",
+    "className": "ng-untouched ng-pristine ng-valid",
+    "disabled": false,
+    "readOnly": false
+  },
+  {
+    "tag": "INPUT",
+    "type": "file",
+    "text": "",
+    "placeholder": "",
+    "formcontrolname": null,
+    "className": "",
+    "disabled": false,
+    "readOnly": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Скасувати",
+    "formcontrolname": null,
+    "className": "secondary-global-button s-btn",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Застосувати",
+    "formcontrolname": null,
+    "className": "primary-global-button s-btn",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-bold",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-italic",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-underline",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-strike",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-blockquote",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-code-block",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-header",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-header",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-list",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-list",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-script",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-script",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-indent",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-indent",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-direction",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-clean",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-link",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-image",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-video",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "",
+    "formcontrolname": null,
+    "className": "ql-emoji",
+    "disabled": false
+  },
+  {
+    "tag": "INPUT",
+    "type": "text",
+    "text": "",
+    "placeholder": "",
+    "formcontrolname": null,
+    "className": "",
+    "disabled": false,
+    "readOnly": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Вийти",
+    "formcontrolname": null,
+    "className": "tertiary-global-button",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "text": "Переглянути",
+    "formcontrolname": null,
+    "className": "secondary-global-button",
+    "disabled": false
+  },
+  {
+    "tag": "BUTTON",
+    "type": "submit",
+    "text": "Опублікувати",
+    "formcontrolname": null,
+    "className": "primary-global-button",
+    "disabled": true
+  },
+  {
+    "tag": "BUTTON",
+    "type": "submit",
+    "text": "",
+    "formcontrolname": null,
+    "className": "chat-pop-up",
+    "disabled": false
+  }
+]
